@@ -1,0 +1,27 @@
+body{
+  background-color: beige;
+}
+#saffron {
+  border-radius: 100% 0;
+  height: 255px;
+  background-color: #ff9933;
+}
+
+#white {
+  border-radius: 100% 0;
+  height: 255px;
+  background-color: #fff;
+  padding-left: 500px;
+}
+
+#green {
+  border-radius: 100% 0;
+  height: 255px;
+  background-color: green;
+}
+
+#ashok {
+  border-radius: 128px 128px;
+  border-style:solid ;
+  height: 255px;
+}
